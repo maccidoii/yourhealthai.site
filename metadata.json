@@ -1,0 +1,5 @@
+{
+  "name": "AI Health Diagnosis Assistant",
+  "description": "An AI-powered diagnosis and research assistant to help with symptom checking and provide health recommendations, based on trusted medical sources. It analyzes symptoms from text and images to provide potential conditions with confidence scores and sources for transparency.",
+  "requestFramePermissions": []
+}
